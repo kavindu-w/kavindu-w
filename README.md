@@ -40,9 +40,9 @@
 #
 
 ### 📊 Stats
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=akw2000&show_icons=true&theme=github_dark" style="margin-right: 50px"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akw2000&theme=github_dark&langs_count=8&layout=compact" />
+<p align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=akw2000&show_icons=true&theme=github_dark" style="margin-right: 50px"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akw2000&theme=github_dark&langs_count=8&layout=compact" />
 </p>
 
 
