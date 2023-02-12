@@ -39,7 +39,8 @@
 ### 📊 Stats
 ![akw2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=akw2000&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akw2000&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akw2000&theme=github_dark&langs_count=8&layout=compact)
+
 <!---
 akw2000/akw2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
