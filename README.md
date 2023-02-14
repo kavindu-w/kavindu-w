@@ -24,6 +24,7 @@
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.c0776591c732085d0bfae5e56af429a7?rik=ogDdmn4vF3KFqA&pid=ImgRaw&r=0g" />
 <br />
 </p>
+</br>
 
 #
 
@@ -36,6 +37,7 @@
 <a href="https://www.instagram.com/_akw2000_/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="akw200021" height="30" width="40" /></a>
 
 </p>
+</br>
 
 #
 
