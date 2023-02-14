@@ -37,7 +37,6 @@
 <a href="https://www.instagram.com/_akw2000_/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="akw200021" height="30" width="40" /></a>
 
 </p>
-</br>
 
 #
 
