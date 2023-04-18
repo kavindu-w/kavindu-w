@@ -21,7 +21,7 @@
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.c0776591c732085d0bfae5e56af429a7?rik=ogDdmn4vF3KFqA&pid=ImgRaw&r=0g" />
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Github_icon-icons.com_66788.png" />
 <br />
 </p>
 </br>
