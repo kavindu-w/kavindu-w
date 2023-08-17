@@ -2,6 +2,16 @@
 <h1 align="center">👋🏾 Hello, I'm Arachchige Kavindu Warnakulasuirya</h1>
 <h3 align="center">🎓 I’m currently an undergraduate at the University of Moratuwa in the Computer Science & Engineering department specializing in data science.</h3>
 <h4 align="center"> 📧 Reach me at <a href="mailto:akwarnakulasuriya@gmail.com"> akwarnakulasuriya@gmail.com </a> </h4>
+    
+<table align="center" style="border-collapse: collapse;">
+    <tr>
+        <td style="border: none;">
+            <img src="https://komarev.com/ghpvc/?username=akw2000&label=Intriguing+visitors&color=9966ff" alt="Profile Views Counter">
+        </td>
+    </tr>
+</table>
+
+
 
 #
 
@@ -41,10 +51,14 @@
 #
 
 ### 📊 Stats
-<p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=akw2000&show_icons=true&theme=github_dark" style="margin-right: 50px"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akw2000&theme=github_dark&langs_count=8&layout=compact" />
-</p>
+<!-- commits, PR stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akw2000&show_icons=true&theme=github_dark&layout=donut-vertical" />
+</a>
+<!--langs-->
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akw2000&theme=github_dark&langs_count=8&layout=donut-vertical&card_width=320" />
+</a>
 
 
 <!---
