@@ -21,8 +21,9 @@
 <img align="left" alt="oracle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 <img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="sqlite" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
-
-    
+<img align="left" alt="sqlite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="left" alt="sqlite" width="40px" style="padding-right:10px;" src="https://idash.pl/wp-content/themes/idash/core/img/assets/shiny-logo.png"/>
+   
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="c" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
 <img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
