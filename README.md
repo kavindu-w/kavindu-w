@@ -1,8 +1,8 @@
 
 <h1 align="center">👋🏾 Hello, I'm Arachchige Kavindu Warnakulasuirya</h1>
-<h3 align="center">🎓 I’m currently an undergraduate at the University of Moratuwa in the Computer Science & Engineering department specializing in data science.</h3>
+<h3 align="center">🎓 I’m currently an undergraduate at the University of Moratuwa in the Computer Science & Engineering Department specializing in Data Science.</h3>
 <h4 align="center"> 📧 Reach me at <a href="mailto:akwarnakulasuriya@gmail.com"> akwarnakulasuriya@gmail.com </a> </h4>
-    
+
 <table align="center" style="border-collapse: collapse;">
     <tr>
         <td style="border: none;">
@@ -15,7 +15,7 @@
 
 #
 
-<h3 align="left">  🧰 Languages and Tools</h3>
+### 🧰 Languages and Tools
 <p align="left"> 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="oracle" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
@@ -39,7 +39,7 @@
 
 #
 
-<h3 align="left">🌏 Connect with me</h3>
+### 🌏 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/kavindu-warnakulasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu-warnakulasuriya" height="30" width="40" /></a>
 <a href="https://kaggle.com/kavinduw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavinduw" height="30" width="40" /></a>
