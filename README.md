@@ -6,7 +6,7 @@
 <table align="center" style="border-collapse: collapse;">
     <tr>
         <td style="border: none;">
-            <img src="https://komarev.com/ghpvc/?username=akw2000&label=Intriguing+visitors&color=9966ff" alt="Profile Views Counter">
+            <img src="https://komarev.com/ghpvc/?username=kavindu-w&label=Intriguing+visitors&color=9966ff" alt="Profile Views Counter">
         </td>
     </tr>
 </table>
@@ -43,9 +43,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/kavindu-warnakulasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu-warnakulasuriya" height="30" width="40" /></a>
 <a href="https://kaggle.com/kavinduw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavinduw" height="30" width="40" /></a>
-<a href="https://twitter.com/akw200021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akw200021" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kavindu.warnakulasuriya.9" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="akw200021" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_akw2000_/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="akw200021" height="30" width="40" /></a>
+<a href="https://twitter.com/akw200021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kavindu.warnakulasuriya.9" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_akw2000_/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
 </p>
 
@@ -54,15 +54,15 @@
 ### 📊 Stats
 <!-- commits, PR stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akw2000&show_icons=true&theme=github_dark&layout=donut-vertical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kavindu-w&show_icons=true&theme=github_dark&layout=donut-vertical" />
 </a>
 <!--langs-->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akw2000&theme=github_dark&langs_count=8&layout=donut-vertical&card_width=320" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu-w&theme=github_dark&langs_count=8&layout=donut-vertical&card_width=320" />
 </a>
 
 
 <!---
-akw2000/akw2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kavindu-w/kavindu-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
