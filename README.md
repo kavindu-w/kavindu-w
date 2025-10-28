@@ -11,8 +11,6 @@
     </tr>
 </table>
 
-
-
 #
 
 ### 🧰 Languages and Tools
@@ -61,6 +59,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindu-w&theme=github_dark&langs_count=8&layout=donut-vertical&card_width=320" />
 </a>
 
+![](https://hit.yhype.me/github/profile?account_id=86293207)
 
 <!---
 kavindu-w/kavindu-w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
