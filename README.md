@@ -1,6 +1,6 @@
 
-<h1 align="center">👋🏾 Hello, I'm Arachchige Kavindu Warnakulasuirya</h1>
-<h3 align="center">🎓 I’m currently an undergraduate at the University of Moratuwa in the Computer Science & Engineering Department specializing in Data Science.</h3>
+<h1 align="center">👋🏾 Hello, I am Kavindu Warnakulasuirya</h1>
+<h3 align="center">🎓 I am a Computer Science & Engineering graduate, specialised in Data Science & Engineering from the University of Moratuwa.</h3>
 <h4 align="center"> 📧 Reach me at <a href="mailto:akwarnakulasuriya@gmail.com"> akwarnakulasuriya@gmail.com </a> </h4>
 
 <table align="center" style="border-collapse: collapse;">
