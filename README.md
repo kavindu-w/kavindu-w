@@ -1,5 +1,5 @@
 
-<h1 align="center">👋🏾 Hello, I am Kavindu Warnakulasuirya</h1>
+<h1 align="center">👋🏾 Hi Everyone, I am Kavindu Warnakulasuriya</h1>
 <h3 align="center">🎓 I am a Computer Science & Engineering graduate, specialised in Data Science & Engineering from the University of Moratuwa.</h3>
 <h4 align="center"> 📧 Reach me at <a href="mailto:akwarnakulasuriya@gmail.com"> akwarnakulasuriya@gmail.com </a> </h4>
 
@@ -22,7 +22,7 @@
 <img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="sqlite" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 <img align="left" alt="sqlite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<img align="left" alt="sqlite" width="40px" style="padding-right:10px;" src="https://idash.pl/wp-content/themes/idash/core/img/assets/shiny-logo.png"/>
+<!-- <img align="left" alt="ShinyR" width="40px" style="padding-right:10px;" src="https://idash.pl/wp-content/themes/idash/core/img/assets/shiny-logo.png"/> -->
    
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="c" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
@@ -44,8 +44,8 @@
 <a href="https://linkedin.com/in/kavindu-warnakulasuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavindu-warnakulasuriya" height="30" width="40" /></a>
 <a href="https://kaggle.com/kavinduw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavinduw" height="30" width="40" /></a>
 <a href="https://x.com/kavindu_warna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.facebook.com/kavindu.warnakulasuriya.9" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kavindu_warnakulasuriya_/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kavindu.warnakulasuriya.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/facebook/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kavindu_warnakulasuriya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/dheereshag/coloured-icons/refs/heads/master/public/logos/social%20media/instagram/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
 </p>
 
