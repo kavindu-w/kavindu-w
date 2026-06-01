@@ -1,6 +1,8 @@
 
 <h1 align="center">👋🏾 Hi Everyone, I am Kavindu Warnakulasuriya</h1>
-<h3 align="center">🎓 I am a Computer Science & Engineering graduate, specialised in Data Science & Engineering from the University of Moratuwa.</h3>
+<h3 align="center">🎓 I am a computer science PhD student at the National University of Singapore (NUS). I am also a Computer Science & Engineering graduate, specialised in Data Science & Engineering from the University of Moratuwa.
+
+</h3>
 <h4 align="center"> 📧 Reach me at <a href="mailto:akwarnakulasuriya@gmail.com"> akwarnakulasuriya@gmail.com </a> </h4>
 
 <table align="center" style="border-collapse: collapse;">
