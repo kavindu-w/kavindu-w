@@ -51,12 +51,12 @@
 
 ### 📊 Stats
 <!-- commits, PR stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kavindu-w/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-five-zeta-16.vercel.app/api?username=kavindu-w&show_icons=true&theme=github_dark&layout=donut-vertical" />
     
 </a>
 <!--langs-->
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/kavindu-w/github-readme-stats">
   <img align="center" src="https://github-readme-stats-five-zeta-16.vercel.app/api/top-langs?username=kavindu-w&theme=github_dark&langs_count=8&layout=donut-vertical&card_width=320" />
 </a>
 
